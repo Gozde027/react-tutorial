@@ -2,7 +2,7 @@
   "name": "react-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Gozde027.github.io/react-first",
+  "homepage": "https://gozde027.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
